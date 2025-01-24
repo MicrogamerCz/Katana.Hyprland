@@ -1,5 +1,3 @@
-# GTK# Layer Shell
-
 A feature-incompelete C# library for [Hyprland](https://github.com/hyprwm/hyprland)
 
 **Dependencies**: Hyprland 
